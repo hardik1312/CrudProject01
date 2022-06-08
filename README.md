@@ -38,5 +38,5 @@ Project is: _complete_
 
 
 ## Acknowledgements
-- This project was based on [this tutorial](https://youtu.be/XQjaTUwTJRY).
+- This project was based on [this tutorial](https://youtu.be/OPc_oMgjhpM).
 - Many thanks to Geeky Shows YouTube Channel
