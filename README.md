@@ -5,9 +5,9 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
+* [Usage](#usage)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
 * 
 
 ## General Information
@@ -19,13 +19,12 @@
 ## Technologies Used
 - Python 3.8.6
 - Django 4.0.4
-- HTML
-- BOOTSTRAP
-- JavaScript
+- HTML5
+- BOOTSTRAP 5.2.0-beta1
+- JQuery 3.6.0
 
 
 ## Features
-List the ready features here:
 - It can Create, Read/Retrieve, Update, and Delete data.
 
 
@@ -40,4 +39,4 @@ Project is: _complete_
 
 ## Acknowledgements
 - This project was based on [this tutorial](https://youtu.be/XQjaTUwTJRY).
-- Many thanks to Geeky Shows
+- Many thanks to Geeky Shows YouTube Channel
