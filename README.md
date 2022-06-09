@@ -1,5 +1,5 @@
-# CRUD Project
-> Function based view ModelForm CRUD project using Django
+# Employee Management System
+> Function based view Employee Management System using Django
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -12,8 +12,8 @@
 
 ## General Information
 - This is a simple CRUD project which can Create, Retrieve, Update, and Delete data.
-- It can help you in keeping a student, employee database.
-- I build this project to learn function based view, and modelForm in django.
+- It can help you in keeping an employee database.
+- I built this project to learn function based view, and modelForm in django.
 
 
 ## Technologies Used
